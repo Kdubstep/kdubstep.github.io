@@ -152,21 +152,3 @@ footer ul {
 footer li + li {
   margin-left: 6px;
 }
-
-
-
-@media (min-width: 600px) {
-
-footer {
-  text-align: center;
-  padding: 60px 0;
-  background: #ffd5d3;
-  margin-top: 60px;
-  color: rgb(155, 108, 55);
-}
-
-}
-
-@media (min-width: 800px) {
-
-}
