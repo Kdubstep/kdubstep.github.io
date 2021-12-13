@@ -153,26 +153,6 @@ footer li + li {
   margin-left: 6px;
 }
 
-@media (min-width: 600px) {
-  .works li {
-    width: calc((100% - 32px) / 3);
-  }
-}
-
-/* l screen -------------- */
-
-@media (min-width: 800px) {
-  .container {
-    width: calc(100% - 32px);
-    margin: 0 auto;
-    max-width: 800px;
-  }
-
-  header form {
-    display: block;
-  }
-}
-
 
 
 @media (min-width: 600px) {
